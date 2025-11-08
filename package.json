@@ -1,0 +1,28 @@
+{
+  "name": "playwright-auto-heal-demo",
+  "version": "1.0.0",
+  "description": "Proyecto de Playwright para testear el login de SauceDemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "test:debug": "npx playwright test --debug",
+    "show-report": "npx playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "testing",
+    "automation",
+    "saucedemo"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "@types/node": "^20.8.0"
+  },
+  "dependencies": {
+    "playwright-auto-healer": "file:../../huckleberry/playwright-auto-healer"
+  }
+}
