@@ -1,0 +1,58 @@
+[
+  {
+    "file": "auto-detected",
+    "line": 0,
+    "originalSelector": "#user-name-broken",
+    "newSelector": "#user-name",
+    "status": "healed",
+    "timestamp": "2025-11-12T00:00:54.845Z"
+  },
+  {
+    "file": "auto-detected",
+    "line": 0,
+    "originalSelector": "#user-name-results-test",
+    "newSelector": "#user-name",
+    "status": "healed",
+    "timestamp": "2025-11-12T00:01:11.175Z"
+  },
+  {
+    "file": "auto-detected",
+    "line": 0,
+    "originalSelector": "#login-button-click-test",
+    "newSelector": "#login-button",
+    "status": "healed",
+    "timestamp": "2025-11-12T00:01:18.205Z"
+  },
+  {
+    "file": "auto-detected",
+    "line": 0,
+    "originalSelector": "#user-name-fill-test",
+    "newSelector": "#user-name",
+    "status": "healed",
+    "timestamp": "2025-11-12T00:01:24.605Z"
+  },
+  {
+    "file": "auto-detected",
+    "line": 0,
+    "originalSelector": "#password-fill-test",
+    "newSelector": "#password",
+    "status": "healed",
+    "timestamp": "2025-11-12T00:01:30.380Z"
+  },
+  {
+    "file": "auto-detected",
+    "line": 0,
+    "originalSelector": "#user-name-config-test",
+    "newSelector": "#user-name",
+    "status": "healed",
+    "timestamp": "2025-11-12T00:01:36.608Z"
+  },
+  {
+    "file": "auto-detected",
+    "line": 0,
+    "originalSelector": "#user-name-broken",
+    "newSelector": "#user-name",
+    "status": "healed",
+    "timestamp": "2025-11-12T00:09:47.572Z"
+  }
+]
